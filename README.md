@@ -7,7 +7,7 @@ use following commands
   <li><strong>aws configure</strong> -> command and entter your credintials</li>
   <li><strong>terrafoorm plan</strong></li>
   <li><strong>terraform apply --auto-approve</strong></li>
-  # if you want to delete what your created
+  # if you want to delete what your created.
   <li><strong>terraform destroy</strong></li>
  </ul>
 
